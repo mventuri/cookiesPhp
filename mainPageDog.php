@@ -29,7 +29,7 @@ setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1
 
 		<div class="row">
 			<div class="col-sm-12">
-				<a href="./cookieTest.php"><button type="button" class="btn btn-primary mt-5">More Info About Cats</button></a>
+				<a href="./cookieTest.php"><button type="button" class="btn btn-primary mt-5">More Info About</button></a>
 			</div>
 		</div>
 	</div>	
